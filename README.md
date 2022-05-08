@@ -46,13 +46,15 @@ To run this repository on your local machine, follow these steps:
 
 ### OR
 
-Run the notebooks using the nbViewer badges below.
+Run the notebooks using google collab below.
 
 * Post Correspondance Problem:
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kealanocallaghan2000/TheoryOfAlgorithms/blob/main/post-correspondence.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kealanocallaghan2000/TheoryOfAlgorithms/blob/main/post-correspondence.ipynb)
 
 * Countdown Numbers Game: 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kealanocallaghan2000/TheoryOfAlgorithms/blob/main/countdown.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/])
+
+https://colab.research.google.com/github/kealanocallaghan2000/TheoryOfAlgorithms/blob/main/countdown.ipynb#scrollTo=20b1be02-6746-4c8a-967d-ddc5bfc966a8
 
 
 *** 
