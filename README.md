@@ -37,9 +37,25 @@ This repository is a demonstration of my research and studies into the topics of
 *** 
  
 ### How To Run The Notebook
+To run this repository on your local machine, follow these steps:
+* Install Anaconda3 onto your machine. A link to the Anaconda website - [Download Anaconda3](https://www.anaconda.com/products/distribution)
+* Run this command in a new terminal ```conda install -c conda-forge jupyterlab```
+* Clone this repository
+* Open a terminal in the directory of the cloned repository Open the cloned folder of this repository
+* Run the notebooks locally with this command ```jupyter lab``` or ```run jupyter lab```
 
+### OR
+
+Run the notebooks using the nbViewer badges below.
+
+* Post Correspondance Problem:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kealanocallaghan2000/TheoryOfAlgorithms/blob/main/post-correspondence.ipynb)
+
+* Countdown Numbers Game: 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/kealanocallaghan2000/TheoryOfAlgorithms/blob/main/countdown.ipynb)
 
 
 *** 
 ## Resources
 * **Jupyter** - https://jupyter.org/
+* **Anaconda3 Download** - https://www.anaconda.com/products/distribution
